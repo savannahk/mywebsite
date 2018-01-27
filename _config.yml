@@ -2,7 +2,7 @@ remote_theme: mmistakes/minimal-mistakes
 title: Galaxy NGC 891
 include: ["_pages"]
 
-author
+author:
   name: "savannah"
   avatar: "/bird.jpg"
   bio: "?"
