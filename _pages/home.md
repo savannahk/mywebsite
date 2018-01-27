@@ -4,4 +4,4 @@ permalink: /
 author_profile: true
 ---
 
-Hello, ChickTech!
+Hello
